@@ -1,8 +1,27 @@
-# Hi there 👋, I'm Arshad Ali
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Arshad+Ali;Computer+Science+Student+%7C+Python+%7C+Machine+Learning;AI+%26+Data+Science+Focused+Developer" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Kung Fu Panda GIF">
 </p>
+<p align="left">
+  <a href="mailto:arshadali04042004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arshadali04042004%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/arshad04042004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arshad%20Ali-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/G22L65" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Arshad Ali-181717?style=for-the-badge&logo=github" />
+  </a>
+  <!-- Optional: enable when portfolio is live -->
+  <!--
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel" />
+  </a>
+  -->
+</p>
+
 
 ---
 
